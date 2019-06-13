@@ -1,0 +1,6 @@
+Write your own atoi with handling special cases also ? For example “123” = 123.
+Write a function to check palindrome in a linked list.
+Write a function to create mirror for a tree.
+Find if there is a merging point between two linked list.
+Write a function to check if there is any possible path in a 2D matrix.
+Write a function to check if two string are anagram or not.   
